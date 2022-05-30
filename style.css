@@ -1,0 +1,83 @@
+.one{
+    background-color: dodgerblue;
+    text-align: center;
+    color: white;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+
+
+}
+.img{
+    display: flex;
+    align-content: space-between;
+    }
+    img{
+        width: 350px;
+        height: 350px;
+    }
+    .udacity{
+        text-align: center;
+        color: dodgerblue;
+    }
+    .para{
+        text-align: center;
+    }
+    button{
+        background-color: dodgerblue;
+        color: white;
+        font-family: sans-serif;
+    }
+    .three{
+        display: flex;
+        flex-direction: column;
+        background-color: dodgerblue;
+    
+    
+    }
+    .imgs{
+       float: right;
+       margin: 5px;
+        }
+        img{
+            width: 250px;
+            height: 250px;
+
+        }
+        .udacity{
+            text-align: center;
+            color: dodgerblue;
+        }
+        .intro{
+            text-align: center;
+        }
+        button{
+            background-color: dodgerblue;
+            color: white;
+        }
+        .fup{
+            color: white;
+            text-align: justify;
+        }
+        .digital{
+            text-align: center;
+        }
+        .five{
+            background-color: dodgerblue;
+            color: white;
+            text-align: center;
+            height: 70px;
+        }
+        .hac{
+            text-align: left;
+            margin-left: 50px;
+        }
+        .contact{
+            text-align: right;
+            margin-right: 50px;
+        }
+                   
+    
+    
